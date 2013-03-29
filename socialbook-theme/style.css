@@ -1,0 +1,16 @@
+/*
+Theme Name: Social Book theme
+Description: Child theme for the Anaximander theme 
+Author: Haig
+Template: twentytwelve 
+*/
+
+@import url("../twentytwelve/style.css");
+
+
+@media only screen and (max-width: 900px) {
+	body {
+		color: red;
+	}
+	
+}
